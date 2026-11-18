@@ -1,4 +1,7 @@
  <div align="center">
+  <img src="./banner.png" width="100%" alt="Pritam Bag"/>
+</div>
+<div align="center">
 
 # Hey, I'm Pritam!
 
