@@ -1,6 +1,10 @@
- <div align="center">
-  <img src="./banner.png" width="100%" alt="Pritam Bag"/>
+<div align="center">
+  <img src="./2a97c540-b877-459d-ab5b-207554194887.png"
+       width="100%"
+       alt="Pritam Bag - Olive Green Tech Banner">
 </div>
+
+<br/>
 <div align="center">
 
 # Hey, I'm Pritam!
